@@ -14,8 +14,8 @@ Hope this collection can improve your knowledge and make the world a better plac
 
 | Lesson Number | Topic | Lesson Note | Learning Objectives | Linked Lesson |
 | :-----------: | :----------------------------------------: | :--------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
-| 01 | Review SQL and how it works | [Note](1-Introduction/README.md) | Learn the basic concepts behind database , How SQL works , step by step SQL installation | [video](https://youtu.be/beZ7Mb_oz9I) | 
-| 02 | Datatype in SQL , Select query | [Note](1-Introduction/README.md) | Learn numeric - datetime - character string datatypes , How select and select distinc query works.  | [code](1-Introduction/01-defining-data-science/README.md) [video](https://youtu.be/beZ7Mb_oz9I) |
+| 01 | Review SQL and how it works | [Note](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2001/Note/note.pdf) | Learn the basic concepts behind database , How SQL works , step by step SQL installation | [video](https://t.me/dotnetcode/2203) | 
+| 02 | Datatype in SQL , Select query | [Note](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2002/Note/note.pdf) | Learn numeric - datetime - character string datatypes , How select and select distinc query works.  | [code](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2002/Code/02-Education-Code.sql) [video](https://t.me/dotnetcode/2205) |
 
 ## About Dr.Maryam Hajiesmaeili
 
