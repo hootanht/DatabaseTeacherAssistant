@@ -18,6 +18,7 @@ SQL And SQL Server For Beginners: Taught  by [@hootanht]((https://hootanht.githu
 | 01 | Review SQL and how it works | [Note](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2001/Note/note.pdf) | Learn the basic concepts behind database , How SQL works , step by step SQL installation | [video](https://t.me/dotnetcode/2203) | 
 | 02 | Datatype in SQL , Select query | [Note](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2002/Note/note.pdf) | Learn numeric - datetime - character string datatypes , How select and select distinct query works.  | [code](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2002/Code/02-Education-Code.sql) [video](https://t.me/dotnetcode/2205) |
 | 03 | Select Top , Order By , Group By | [Note](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2003/Note/note.pdf) | Learn how select top , order by , group by query works and how to setup Wide World Importers sample database  | [code](https://github.com/hootanht/DatabaseTeacherAssistant/blob/main/Course/Session%2003/Code/01-Education-Code.sql) [video](https://t.me/dotnetcode/2230) |
+| Q&A | How to install SQL Server on Linux? | -- | Learn how to setup SQL Server in linux and how to create first database in Linux!  | [video part 1](https://t.me/dotnetcode/2243) [video part 1](https://t.me/dotnetcode/2245) |
 
 
 ## Setup Database
