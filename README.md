@@ -10,7 +10,7 @@ Hope this collection can improve your knowledge and make the world a better plac
 ## Lessons
 
 
-SQL And SQL Server For Beginners: Taught  by [@hootanht]((https://hootanht.github.io/resume/index-en.html))
+SQL And SQL Server For Beginners: Taught  by [Hootan Hemmati](https://hootanht.github.io/resume/index-en.html)
 
 
 | Lesson Number | Topic | Lesson Note | Learning Objectives | Linked Lesson |
